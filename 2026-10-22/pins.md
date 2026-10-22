@@ -4,7 +4,7 @@ All times America/Hermosillo. Scheduled in Metricool (brand 7432476, Pinterest l
 Images: https://raw.githubusercontent.com/savilar7-coder/lamaisonmx-pins/main/2026-10-22/<file>
 
 ## Pin 1: pin1_holiday_dinner_enough_food.png
-- **When:** Thu Oct 22, 9:00 pm (8 pm slot already taken)
+- **When:** NOT SCHEDULED. Metricool could not resolve the board name "Christmas Budget & Gift Planning" (failed twice). Upload by hand: Thu Oct 22, 9:00 pm suggested.
 - **Listing:** Christmas Party Planner / Holiday Meal and Menu Planner, https://www.etsy.com/listing/4596282379
 - **Board:** Christmas Budget & Gift Planning
 - **Headline on image:** Enough food for everyone?
@@ -20,7 +20,7 @@ Images: https://raw.githubusercontent.com/savilar7-coder/lamaisonmx-pins/main/20
 - **Description:** Getting ready for holiday craft fairs? This inventory spreadsheet tracks stock in and sales out for every product, flags what is low or out, and builds your reorder list with supplier and estimated cost. Made for makers, small shops and resellers, in Google Sheets and Excel.
 
 ## Pin 3: pin3_bookkeeping_profit_tax.png
-- **When:** Sat Oct 24, 8:00 pm
+- **When:** Sat Oct 24, 9:00 pm (requested 8 pm; Metricool saved it at 9 pm)
 - **Listing:** Small Business Bookkeeping Spreadsheet 2027, https://www.etsy.com/listing/4596821672
 - **Board:** Small Business Spreadsheets & Templates
 - **Headline on image:** See your profit and tax set-aside at a glance
