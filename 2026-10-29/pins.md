@@ -36,3 +36,7 @@ Schedule (America/Hermosillo, 8:00 pm): Thu Oct 29 pin 3 · Fri Oct 30 pin 1 · 
 - **Description:** Running a backyard ultra? Plan race day yard by yard: a crew sheet for 100 yards flags each one green, amber or red for rest left, and the pace calculator shows what you need to bank rest every loop. Training log included, in Google Sheets or Excel, made by a runner training for his own backyard ultra.
 - **Link:** https://www.etsy.com/listing/4595318568
 - **Board:** Ultramarathon Training & Race Planning
+
+## Scheduling result (Metricool, brand 7432476)
+All 5 scheduled with autoPublish, confirmed with getScheduledPosts on Oct 29.
+- Board IDs resolved: Christmas Budget & Gift Planning = 1122944557028994948; Ultramarathon Training & Race Planning = 1122944557028994941; Small Business Spreadsheets & Templates = 1122944557028995352.
