@@ -39,3 +39,6 @@ All times America/Hermosillo. Links are plain listing URLs (no Share & Save link
 
 ## Not pinned this week
 - Holiday Custom Order Tracker 4607029440, Pet Sitter Tracker 4602306561, Car Sharing Host Tracker 4597435752: not active on Etsy (still drafts).
+
+## Scheduling result (Metricool, brand 7432476)
+All 5 scheduled (autoPublish) at 8:00 pm America/Hermosillo and confirmed with getScheduledPosts: Thu Nov 5 (417823690), Fri Nov 6 (417823719), Sat Nov 7 (417823775), Sun Nov 8 (417823806), Mon Nov 9 (417823850). No other Pinterest pins were queued Nov 5–15.
