@@ -40,3 +40,6 @@ All times America/Hermosillo. Links are plain listing URLs (no Share & Save link
 ## Not pinned this week
 - Holiday Custom Order Tracker 4607029440, Pet Sitter Tracker 4602306561, Car Sharing Host Tracker 4597435752: not active on Etsy.
 - Crochet bags: no longer in the active listings.
+
+## Scheduling result (Metricool, brand 7432476)
+All 5 scheduled (autoPublish) at 8:00 pm America/Hermosillo and confirmed with getScheduledPosts: Thu Nov 12 (425787386), Fri Nov 13 (425787410), Sat Nov 14 (425787429), Sun Nov 15 (425787462), Mon Nov 16 (425787485). Board IDs: Ultra 1122944557028994941, Christmas 1122944557028994948, Small Business 1122944557028995352, Side Hustle 1122944557028995357.
